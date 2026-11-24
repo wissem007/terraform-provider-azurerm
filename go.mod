@@ -64,7 +64,7 @@ require (
 	github.com/hashicorp/terraform-registry-address v0.0.0-20210412075316-9b2996cce896 // indirect
 	github.com/hashicorp/terraform-svchost v0.0.0-20200729002733-f050f53b9734 // indirect
 	github.com/hashicorp/yamux v0.0.0-20210316155119-a95892c5f864 // indirect
-	github.com/klauspost/compress v1.13.1 // indirect
+	github.com/klauspost/compress v1.18.7 // indirect
 	github.com/manicminer/hamilton-autorest v0.2.0 // indirect
 	github.com/mattn/go-colorable v0.1.8 // indirect
 	github.com/mattn/go-isatty v0.0.13 // indirect
@@ -91,4 +91,4 @@ require (
 	google.golang.org/protobuf v1.27.1 // indirect
 )
 
-go 1.18
+go 1.24
