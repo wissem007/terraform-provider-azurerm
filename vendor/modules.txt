@@ -404,7 +404,7 @@ github.com/tombuildsstuff/giovanni/storage/accesscontrol
 github.com/tombuildsstuff/giovanni/storage/internal/endpoints
 github.com/tombuildsstuff/giovanni/storage/internal/metadata
 github.com/tombuildsstuff/giovanni/version
-# github.com/ulikunitz/xz v0.5.10
+# github.com/ulikunitz/xz v0.5.14
 ## explicit; go 1.12
 # github.com/vmihailenco/msgpack v4.0.4+incompatible
 ## explicit
